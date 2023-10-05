@@ -1,4 +1,3 @@
-Authors - Angel Chiloane and Nontsikelelo Hewu
 #include "binary_trees.h"
 
 /**
