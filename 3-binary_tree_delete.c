@@ -1,3 +1,4 @@
+Authors -Angel Harper and Nontsikelelo Hewu
 #include "binary_trees.h"
 
 /**
